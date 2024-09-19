@@ -8,11 +8,18 @@
 I specialize in Salesforce Commerce Cloud and Salesforce development, with a strong focus on building scalable, customer-centric solutions. My experience spans both back-end and front-end technologies, ensuring that I can deliver robust, efficient, and modern applications.
 
 ### 🛠️ Tech Stack:
-- **Salesforce Commerce Cloud**: Crafting seamless e-commerce experiences.
+- **Salesforce Commerce Cloud**: Crafting seamless B2C e-commerce experiences based on SFRA architecture (formally known as Demandware).
 - **Salesforce**: Automating and optimizing business processes.
 - **React**: Developing dynamic and responsive user interfaces.
 - **Node.js**: Building server-side applications with JavaScript.
 - **HTML, CSS, Bootstrap, jQuery**: Creating clean, responsive, and user-friendly designs.
+
+
+### Certifications:
+- **Salesforce Certified B2C Commerce Developer**
+- **Javascript Developer I**
+- **Salesforce Certified Platform Developer I**
+- **Salesforce certified Administrator**
 
 ### 🌱 Continuous Learner
 I'm always learning new technologies and improving my skills to deliver the best solutions. I'm passionate about problem-solving, optimization, and integrating innovative technologies into Salesforce and e-commerce projects.
