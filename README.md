@@ -1,5 +1,5 @@
 
-![Hey There,](https://github.com/user-attachments/assets/d5a2136f-7865-4ce9-b679-ad6d9f6240be)
+![Cover](https://github.com/user-attachments/assets/8a0c9b6d-67b9-41a6-9e40-c591a2d83754)
 
 # 👋 Hi, I'm Himanshu,
 
