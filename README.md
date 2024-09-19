@@ -24,4 +24,4 @@ I specialize in Salesforce Commerce Cloud and Salesforce development, with a str
 ### 🌱 Continuous Learner
 I'm always learning new technologies and improving my skills to deliver the best solutions. I'm passionate about problem-solving, optimization, and integrating innovative technologies into Salesforce and e-commerce projects.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/himanshu-dadhaniya)!
+Feel free to connect with me via **himanshu.dadhaniya@gmail.com**
