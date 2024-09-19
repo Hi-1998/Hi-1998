@@ -1,3 +1,6 @@
+
+![Hey There,](https://github.com/user-attachments/assets/d5a2136f-7865-4ce9-b679-ad6d9f6240be)
+
 # Hi there! 👋
 
 I'm a **Salesforce Commerce Cloud** and **Salesforce Developer** with a knack for building scalable and efficient solutions that elevate customer experiences. My expertise spans:
