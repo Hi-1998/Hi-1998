@@ -9,7 +9,7 @@ I specialize in Salesforce Commerce Cloud and Salesforce development, with a str
 
 ### 🛠️ Tech Stack:
 - **Salesforce Commerce Cloud**: Crafting seamless B2C e-commerce experiences based on SFRA architecture (formally known as Demandware).
-- **Salesforce**: Automating and optimizing business processes.
+- **Salesforce**: Fluent in developing the custom LWC components, Apex programming, flows, processes, sales cloud, service cloud.
 - **React**: Developing dynamic and responsive user interfaces.
 - **Node.js**: Building server-side applications with JavaScript.
 - **HTML, CSS, Bootstrap, jQuery**: Creating clean, responsive, and user-friendly designs.
