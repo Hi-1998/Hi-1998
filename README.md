@@ -1,14 +1,20 @@
 
 ![Hey There,](https://github.com/user-attachments/assets/d5a2136f-7865-4ce9-b679-ad6d9f6240be)
 
-# Hi there! 👋
+# 👋 Hi, I'm Himanshu,
 
-I'm a **Salesforce Commerce Cloud** and **Salesforce Developer** with a knack for building scalable and efficient solutions that elevate customer experiences. My expertise spans:
+### 💻 Full stack Salesforce Commerce Cloud & Salesforce Developer
 
-- **Salesforce Commerce Cloud**: Developing and optimizing e-commerce solutions.
-- **Salesforce Development**: Customizing Salesforce to meet business needs, integrating systems, and automating processes.
-- **React**: Enhancing front-end user experiences by leveraging modern web development techniques.
+I specialize in Salesforce Commerce Cloud and Salesforce development, with a strong focus on building scalable, customer-centric solutions. My experience spans both back-end and front-end technologies, ensuring that I can deliver robust, efficient, and modern applications.
 
-I enjoy exploring new technologies, staying up to date with industry trends, and continuously improving the projects I work on. When I'm not coding, you can find me diving into tech articles or working on side projects.
+### 🛠️ Tech Stack:
+- **Salesforce Commerce Cloud**: Crafting seamless e-commerce experiences.
+- **Salesforce**: Automating and optimizing business processes.
+- **React**: Developing dynamic and responsive user interfaces.
+- **Node.js**: Building server-side applications with JavaScript.
+- **HTML, CSS, Bootstrap, jQuery**: Creating clean, responsive, and user-friendly designs.
+
+### 🌱 Continuous Learner
+I'm always learning new technologies and improving my skills to deliver the best solutions. I'm passionate about problem-solving, optimization, and integrating innovative technologies into Salesforce and e-commerce projects.
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/himanshu-dadhaniya)!
